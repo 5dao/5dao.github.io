@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>user on Wayman&#39;s blog</title>
-    <link>http://dao.github.io/tags/user/</link>
+    <link>http://5dao.github.io/tags/user/</link>
     <description>Recent content in user on Wayman&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Jun 2019 12:59:51 +0800</lastBuildDate>
     
-	<atom:link href="http://dao.github.io/tags/user/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://5dao.github.io/tags/user/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>most useful tools</title>
-      <link>http://dao.github.io/blog/tools/</link>
+      <link>http://5dao.github.io/blog/tools/</link>
       <pubDate>Tue, 18 Jun 2019 12:59:51 +0800</pubDate>
       
-      <guid>http://dao.github.io/blog/tools/</guid>
+      <guid>http://5dao.github.io/blog/tools/</guid>
       <description> network </description>
     </item>
     
