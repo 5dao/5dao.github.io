@@ -21,12 +21,13 @@
     </item>
     
     <item>
-      <title>Cc</title>
-      <link>http://5dao.github.io/blog/cc/</link>
+      <title>Test Page</title>
+      <link>http://5dao.github.io/blog/test/</link>
       <pubDate>Tue, 18 Jun 2019 13:03:14 +0800</pubDate>
       
-      <guid>http://5dao.github.io/blog/cc/</guid>
-      <description>I am Test page!</description>
+      <guid>http://5dao.github.io/blog/test/</guid>
+      <description>Test page!
+There is nothing!</description>
     </item>
     
     <item>

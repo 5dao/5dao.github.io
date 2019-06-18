@@ -14,43 +14,37 @@
   </url>
   
   <url>
+    <loc>http://5dao.github.io/tags/2019/</loc>
+    <lastmod>2019-06-18T13:03:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://5dao.github.io/blog/</loc>
     <lastmod>2019-06-18T13:03:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://5dao.github.io/blog/cc/</loc>
-    <lastmod>2019-06-18T13:03:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://5dao.github.io/tags/2019/</loc>
-    <lastmod>2019-06-18T12:59:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://5dao.github.io/tags/2019-06/</loc>
-    <lastmod>2019-06-18T12:59:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://5dao.github.io/categories/</loc>
-    <lastmod>2019-06-18T12:59:51+08:00</lastmod>
+    <lastmod>2019-06-18T13:03:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://5dao.github.io/tags/</loc>
-    <lastmod>2019-06-18T12:59:51+08:00</lastmod>
+    <lastmod>2019-06-18T13:03:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://5dao.github.io/blog/test/</loc>
+    <lastmod>2019-06-18T13:03:14+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://5dao.github.io/categories/blog/</loc>
-    <lastmod>2019-06-18T12:59:51+08:00</lastmod>
+    <lastmod>2019-06-18T13:03:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -61,12 +55,6 @@
   
   <url>
     <loc>http://5dao.github.io/tags/tools/</loc>
-    <lastmod>2019-06-18T12:59:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://5dao.github.io/tags/user/</loc>
     <lastmod>2019-06-18T12:59:51+08:00</lastmod>
     <priority>0</priority>
   </url>
